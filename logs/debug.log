@@ -1,0 +1,1497 @@
+[13:54:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:54:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:54:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:54:41] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[13:54:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[13:54:41] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows Server 2019:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[13:54:41] [main/DEBUG] [FML]: Java classpath at launch is:
+[13:54:41] [main/DEBUG] [FML]:     C:\Users\Administrator\Desktop\Bryans Cool server\forge-1.12.2-14.23.5.2854.jar
+[13:54:41] [main/DEBUG] [FML]: Java library path at launch is:
+[13:54:41] [main/DEBUG] [FML]:     C:\Program Files\Java\jre1.8.0_271\bin
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\Sun\Java\bin
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\system32
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows
+[13:54:41] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\system32
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[13:54:41] [main/DEBUG] [FML]:     C:\Windows\System32\OpenSSH\
+[13:54:41] [main/DEBUG] [FML]:     
+[13:54:41] [main/DEBUG] [FML]:     C:\Program Files\Docker\Docker\resources\bin
+[13:54:41] [main/DEBUG] [FML]:     C:\ProgramData\DockerDesktop\version-bin
+[13:54:41] [main/DEBUG] [FML]:     C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps
+[13:54:41] [main/DEBUG] [FML]:     
+[13:54:41] [main/DEBUG] [FML]:     .
+[13:54:41] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\Users\Administrator\Desktop\Bryans Cool server\libraries
+[13:54:42] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[13:54:42] [main/DEBUG] [FML]: Examining file: aether-1.12.2-v1.5.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: buildcraft-7.1.23.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: buildcraft-all-7.99.24.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: cfm-6.3.0-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: cgm-0.15.3-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.301.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: malisisdoors-1.12.2-7.3.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: obfuscate-0.4.2-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: vehicle-0.44.1-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:54:42] [main/DEBUG] [FML]: Examining file: Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:54:42] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[13:54:42] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[13:54:42] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:54:42] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[13:54:42] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[13:54:42] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[13:54:42] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[13:54:42] [main/DEBUG] [FML]: Discovering coremods
+[13:54:42] [main/INFO] [FML]: Searching C:\Users\Administrator\Desktop\Bryans Cool server\.\mods for mods
+[13:54:42] [main/DEBUG] [FML]:   Adding aether-1.12.2-v1.5.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding buildcraft-7.1.23.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding buildcraft-all-7.99.24.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding cfm-6.3.0-mc1.12.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding cgm-0.15.3-mc1.12.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding Immersive+Vehicles-1.12.2-18.5.0.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.301.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding malisiscore-1.12.2-6.5.1.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding malisisdoors-1.12.2-7.3.0.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding Minecraft-Comes-Alive-Mod-1.12.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding obfuscate-0.4.2-mc1.12.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding vehicle-0.44.1-mc1.12.2.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding XaerosWorldMap_1.11.0_Forge_1.12 (1).jar to the mod list
+[13:54:42] [main/DEBUG] [FML]:   Adding Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar to the mod list
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy aether-1.12.2-v1.5.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in aether-1.12.2-v1.5.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy buildcraft-7.1.23.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in buildcraft-7.1.23.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy buildcraft-all-7.99.24.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in buildcraft-all-7.99.24.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy cfm-6.3.0-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in cfm-6.3.0-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy cgm-0.15.3-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in cgm-0.15.3-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.301.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.301.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy malisisdoors-1.12.2-7.3.0.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in malisisdoors-1.12.2-7.3.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy obfuscate-0.4.2-mc1.12.2.jar
+[13:54:42] [main/TRACE] [FML]: Adding obfuscate-0.4.2-mc1.12.2.jar to the list of known coremods, it will not be examined again
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class ObfuscatePlugin
+[13:54:42] [main/DEBUG] [FML]: The coremod com.mrcrayfish.obfuscate.asm.ObfuscatePlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[13:54:42] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod ObfuscatePlugin
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy vehicle-0.44.1-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Not found coremod data in vehicle-0.44.1-mc1.12.2.jar
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:54:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class XaeroMinimapPlugin
+[13:54:42] [main/DEBUG] [FML]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[13:54:42] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod XaeroMinimapPlugin
+[13:54:42] [main/DEBUG] [FML]: Examining for coremod candidacy XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:54:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.11.0_Forge_1.12 (1).jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class XaeroWorldMapPlugin
+[13:54:42] [main/DEBUG] [FML]: The coremod xaero.map.core.XaeroWorldMapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[13:54:42] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod XaeroWorldMapPlugin
+[13:54:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:54:42] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[13:54:42] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@4517d9a3
+[13:54:42] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar Service=LaunchWrapper Env=SERVER
+[13:54:42] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[13:54:42] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[13:54:42] [main/DEBUG] [mixin]: Mixin platform: primary container is file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [mixin]: Adding mixin platform agents for container file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFML for file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for malisiscore-1.12.2-6.5.1.jar, attempting force-load
+[13:54:42] [main/DEBUG] [mixin]: Adding malisiscore-1.12.2-6.5.1.jar to reparseable coremod collection
+[13:54:42] [main/DEBUG] [mixin]: malisiscore-1.12.2-6.5.1.jar has core plugin net.malisis.core.asm.MalisisCorePlugin. Injecting it into FML for co-initialisation:
+[13:54:42] [main/DEBUG] [FML]: Instantiating coremod class MalisisCorePlugin
+[13:54:42] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:54:42] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[13:54:42] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[13:54:42] [main/DEBUG] [FML]: Enqueued coremod MalisisCorePlugin
+[13:54:42] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar
+[13:54:42] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/forge-1.12.2-14.23.5.2854.jar for mixin tweaker
+[13:54:42] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/obfuscate-0.4.2-mc1.12.2.jar for mixin tweaker
+[13:54:42] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/Xaeros_Minimap_20.27.0_Forge_1.12%20-%20Copy.jar for mixin tweaker
+[13:54:42] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/XaerosWorldMap_1.11.0_Forge_1.12%20(1).jar for mixin tweaker
+[13:54:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:54:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:54:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:54:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:54:42] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[13:54:42] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[13:54:42] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[13:54:42] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:54:42] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[13:54:42] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[13:54:42] [main/DEBUG] [FML]: Injection complete
+[13:54:42] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[13:54:42] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[13:54:43] [main/DEBUG] [FML]: Read 1154 binary patches
+[13:54:44] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[13:54:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:54:44] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[13:54:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:54:44] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[13:54:44] [main/DEBUG] [FML]: Injection complete
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[13:54:44] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[13:54:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:54:44] [main/DEBUG] [FML]: Injecting coremod XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\} class transformers
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[13:54:44] [main/DEBUG] [FML]: Injection complete
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin for XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\}
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin XaeroMinimapPlugin
+[13:54:44] [main/DEBUG] [FML]: Coremod plugin class XaeroMinimapPlugin run successfully
+[13:54:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:54:44] [main/DEBUG] [FML]: Injecting coremod XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\} class transformers
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[13:54:44] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[13:54:44] [main/DEBUG] [FML]: Injection complete
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin for XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\}
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin XaeroWorldMapPlugin
+[13:54:44] [main/DEBUG] [FML]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[13:54:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[13:54:44] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/DEBUG] [mixin]: Registering mixin config: mixins.malisiscore.core.json
+[13:54:44] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[13:54:44] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@30135202
+[13:54:44] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/forge-1.12.2-14.23.5.2854.jar for mixin tweaker
+[13:54:44] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/obfuscate-0.4.2-mc1.12.2.jar for mixin tweaker
+[13:54:44] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/Xaeros_Minimap_20.27.0_Forge_1.12%20-%20Copy.jar for mixin tweaker
+[13:54:44] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/XaerosWorldMap_1.11.0_Forge_1.12%20(1).jar for mixin tweaker
+[13:54:44] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[13:54:44] [main/DEBUG] [mixin]: inject() running with 1 agents
+[13:54:44] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance MalisisCorePlugin {[]} for file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar
+[13:54:44] [main/DEBUG] [FML]: Injecting coremod MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\} class transformers
+[13:54:44] [main/DEBUG] [FML]: Injection complete
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin for MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\}
+[13:54:44] [main/DEBUG] [FML]: Running coremod plugin MalisisCorePlugin
+[13:54:44] [main/DEBUG] [FML]: Coremod plugin class MalisisCorePlugin run successfully
+[13:54:44] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/Administrator/Desktop/Bryans%20Cool%20server/./mods/malisiscore-1.12.2-6.5.1.jar]
+[13:54:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:54:44] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[13:54:44] [main/DEBUG] [FML]: Loaded 14 rules from AccessTransformer mod jar file .\mods\malisiscore-1.12.2-6.5.1.jar!META-INF/malisiscore_at.cfg
+
+[13:54:44] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file .\mods\jei_1.12.2-4.16.1.301.jar!META-INF/jei_at.cfg
+
+[13:54:44] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[13:54:44] [main/DEBUG] [FML]: Validating minecraft
+[13:54:44] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[13:54:45] [main/DEBUG] [FML]: Minecraft validated, launching...
+[13:54:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:54:45] [main/DEBUG] [FML]: Injecting coremod ObfuscatePlugin \{com.mrcrayfish.obfuscate.asm.ObfuscatePlugin\} class transformers
+[13:54:45] [main/TRACE] [FML]: Registering transformer com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+[13:54:45] [main/DEBUG] [FML]: Injection complete
+[13:54:45] [main/DEBUG] [FML]: Running coremod plugin for ObfuscatePlugin \{com.mrcrayfish.obfuscate.asm.ObfuscatePlugin\}
+[13:54:45] [main/DEBUG] [FML]: Running coremod plugin ObfuscatePlugin
+[13:54:45] [main/DEBUG] [FML]: Coremod plugin class ObfuscatePlugin run successfully
+[13:54:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:54:45] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[13:54:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:54:45] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[13:54:45] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[13:54:45] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[13:54:45] [main/DEBUG] [mixin]: Selecting config mixins.malisiscore.core.json
+[13:54:45] [main/DEBUG] [mixin]: Preparing mixins.malisiscore.core.json (10)
+[13:54:45] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[13:54:45] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[13:54:45] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ChunkTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.ChunkTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[13:54:45] [main/DEBUG] [mixin]:   Adding:    $wrapper.com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[13:54:45] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[13:54:45] [main/DEBUG] [mixin]: Transformer delegation list created with 25 entries
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/World to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/WorldServer to metadata cache
+[13:54:45] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[13:54:45] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/chunk/Chunk to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemBlock to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/NetHandlerPlayServer to metadata cache
+[13:54:45] [main/DEBUG] [mixin]: Prepared 6 mixins in 0.271 sec (45.2ms avg) (1ms load, 143ms transform, 0ms plugin)
+[13:54:45] [main/DEBUG] [mixin]: Mixing MixinClientNotif$MixinWorld from mixins.malisiscore.core.json into net.minecraft.world.World
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/malisis/core/util/clientnotif/ClientNotificationManager to metadata cache
+[13:54:45] [main/DEBUG] [mixin]: Mixing MixinChunkCollision$MixinWorld from mixins.malisiscore.core.json into net.minecraft.world.World
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/malisis/core/util/Point to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for org/apache/commons/lang3/tuple/Pair to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for java/io/Serializable to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for java/lang/Comparable to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for java/util/Map$Entry to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/malisis/core/util/chunkcollision/ChunkCollision to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/BlockPos to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/Block to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfo to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/Vec3d to metadata cache
+[13:54:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/RayTraceResult to metadata cache
+[13:54:45] [main/DEBUG] [mixin]: Mixing MixinClientNotif$MixinWorldServer from mixins.malisiscore.core.json into net.minecraft.world.WorldServer
+[13:54:45] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.server.management.PlayerList
+[13:54:45] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.server.management.PlayerList
+[13:54:46] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[13:54:46] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[13:54:46] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:54:48] [main/DEBUG] [mixin]: Mixing MixinChunkCollision$MixinItemBlock from mixins.malisiscore.core.json into net.minecraft.item.ItemBlock
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/Item to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/registries/IForgeRegistryEntry$Impl to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumActionResult to metadata cache
+[13:54:48] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[13:54:48] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/player/EntityPlayer to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumHand to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumFacing to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/state/IBlockState to metadata cache
+[13:54:48] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemStack to metadata cache
+[13:54:50] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[13:54:50] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[13:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[13:54:51] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[13:54:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[13:54:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:54:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:54:52] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:54:53] [Server thread/DEBUG] [FML]: File C:\Users\Administrator\Desktop\Bryans Cool server\config\injectedDependencies.json not found. No dependencies injected
+[13:54:53] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, xaero.common.core.CoreModContainer, xaero.map.core.CoreModContainer, com.mrcrayfish.obfuscate.Obfuscate]
+[13:54:53] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[13:54:53] [Server thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\Administrator\Desktop\Bryans Cool server\forge-1.12.2-14.23.5.2854.jar, examining for mod candidates
+[13:54:53] [Server thread/TRACE] [FML]: Skipping known library file C:\Users\Administrator\Desktop\Bryans Cool server\.\mods\malisiscore-1.12.2-6.5.1.jar
+[13:54:53] [Server thread/TRACE] [FML]: Skipping known library file C:\Users\Administrator\Desktop\Bryans Cool server\.\mods\obfuscate-0.4.2-mc1.12.2.jar
+[13:54:53] [Server thread/TRACE] [FML]: Skipping known library file C:\Users\Administrator\Desktop\Bryans Cool server\.\mods\Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:54:53] [Server thread/TRACE] [FML]: Skipping known library file C:\Users\Administrator\Desktop\Bryans Cool server\.\mods\XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:54:53] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[13:54:53] [Server thread/INFO] [FML]: Searching C:\Users\Administrator\Desktop\Bryans Cool server\.\mods for mods
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding aether-1.12.2-v1.5.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding buildcraft-7.1.23.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding buildcraft-all-7.99.24.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding cfm-6.3.0-mc1.12.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding cgm-0.15.3-mc1.12.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding Immersive+Vehicles-1.12.2-18.5.0.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.301.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding malisiscore-1.12.2-6.5.1.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding malisisdoors-1.12.2-7.3.0.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding Minecraft-Comes-Alive-Mod-1.12.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding obfuscate-0.4.2-mc1.12.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding vehicle-0.44.1-mc1.12.2.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding XaerosWorldMap_1.11.0_Forge_1.12 (1).jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]:   Adding Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar to the mod list
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file aether-1.12.2-v1.5.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file buildcraft-7.1.23.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file buildcraft-all-7.99.24.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file cfm-6.3.0-mc1.12.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file cgm-0.15.3-mc1.12.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.301.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file malisiscore-1.12.2-6.5.1.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file malisisdoors-1.12.2-7.3.0.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:54:53] [Server thread/TRACE] [FML]: Skipping already parsed coremod or tweaker obfuscate-0.4.2-mc1.12.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file vehicle-0.44.1-mc1.12.2.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:54:53] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:54:53] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2854.jar for potential mods
+[13:54:53] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2854.jar appears to be missing an mcmod.info file
+[13:54:54] [Server thread/DEBUG] [FML]: Examining file aether-1.12.2-v1.5.2.jar for potential mods
+[13:54:54] [Server thread/TRACE] [FML]: Located mcmod.info file in file aether-1.12.2-v1.5.2.jar
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.gildedgames.the_aether.Aether) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for aether_legacy: Requirements: [] After:[] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Examining file buildcraft-7.1.23.jar for potential mods
+[13:54:54] [Server thread/TRACE] [FML]: Located mcmod.info file in file buildcraft-7.1.23.jar
+[13:54:54] [Server thread/DEBUG] [FML]: Examining file buildcraft-all-7.99.24.2.jar for potential mods
+[13:54:54] [Server thread/TRACE] [FML]: Located mcmod.info file in file buildcraft-all-7.99.24.2.jar
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.compat.BCCompat) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftcompat: Requirements: [forge@[14.23.0.2544,), buildcraftcore@[7.99.24.2,)] After:[forge@[14.23.0.2544,), buildcraftcore@[7.99.24.2,), buildcrafttransport, buildcraftbuilders, buildcraftsilicon, theoneprobe, forestry, crafttweaker] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.builders.BCBuilders) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftbuilders: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.core.BCCore) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftcore: Requirements: [buildcraftlib@[7.99.24.2,7.99.24.2]] After:[buildcraftlib@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.energy.BCEnergy) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftenergy: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.factory.BCFactory) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftfactory: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.lib.BCLib) - loading
+[13:54:54] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftlib: Requirements: [forge@[14.23.0.2544,)] After:[forge@[14.23.0.2544,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.robotics.BCRobotics) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftrobotics: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.silicon.BCSilicon) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for buildcraftsilicon: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2], buildcrafttransport] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (buildcraft.transport.BCTransport) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for buildcrafttransport: Requirements: [buildcraftcore@[7.99.24.2,7.99.24.2]] After:[buildcraftcore@[7.99.24.2,7.99.24.2]] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file cfm-6.3.0-mc1.12.2.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file cfm-6.3.0-mc1.12.2.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrcrayfish.furniture.MrCrayfishFurnitureMod) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for cfm: Requirements: [] After:[crafttweaker] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file cgm-0.15.3-mc1.12.2.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file cgm-0.15.3-mc1.12.2.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrcrayfish.guns.MrCrayfishGunMod) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for cgm: Requirements: [obfuscate@[0.2.1,)] After:[obfuscate@[0.2.1,), controllable@[0.3.0,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ivairlinerpack.MTSPackLoader) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for ivairlinerpack: Requirements: [mts@[15.0.0,)] After:[mts@[15.0.0,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file Immersive+Vehicles-1.12.2-18.5.0.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (minecrafttransportsimulator.MTS) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for mts: Requirements: [] After:[] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file jei_1.12.2-4.16.1.301.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file jei_1.12.2-4.16.1.301.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for jei: Requirements: [forge@[14.23.5.2816,)] After:[forge@[14.23.5.2816,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file malisiscore-1.12.2-6.5.1.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file malisiscore-1.12.2-6.5.1.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.malisis.core.MalisisCore) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for malisiscore: Requirements: [] After:[] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file malisisdoors-1.12.2-7.3.0.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file malisisdoors-1.12.2-7.3.0.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.malisis.doors.MalisisDoors) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for malisisdoors: Requirements: [malisiscore] After:[malisiscore] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file Minecraft-Comes-Alive-Mod-1.12.2.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mca.core.MCA) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for mca: Requirements: [] After:[] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (unuparts.MTSPackLoader) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for unuparts: Requirements: [mts@[18.0.0,)] After:[mts@[18.0.0,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file vehicle-0.44.1-mc1.12.2.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file vehicle-0.44.1-mc1.12.2.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrcrayfish.vehicle.VehicleMod) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for vehicle: Requirements: [obfuscate@[0.2.5,), forge@[14.23.4.2705,)] After:[obfuscate@[0.2.5,), cfm@[4.1.5,), controllable@[0.8.0,), forge@[14.23.4.2705,)] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (xaero.minimap.XaeroMinimap) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for xaerominimap: Requirements: [] After:[] Before:[]
+[13:54:55] [Server thread/DEBUG] [FML]: Examining file XaerosWorldMap_1.11.0_Forge_1.12 (1).jar for potential mods
+[13:54:55] [Server thread/TRACE] [FML]: Located mcmod.info file in file XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:54:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (xaero.map.WorldMap) - loading
+[13:54:55] [Server thread/TRACE] [FML]: Parsed dependency info for xaeroworldmap: Requirements: [] After:[] Before:[]
+[13:54:55] [Server thread/INFO] [FML]: Forge Mod Loader has identified 29 mods to load
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.boards (owned by buildcraftapi_core providing buildcraftapi_boards) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.filler (owned by buildcraftapi_core providing buildcraftapi_filler) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.transport (owned by buildcraftapi_core providing buildcraftapi_transport) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.core (owned by buildcraftlib providing buildcraftapi_core) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.robots (owned by buildcraftapi_core providing buildcraftapi_robotics) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.fuels (owned by buildcraftapi_core providing buildcraftapi_fuels) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.gates (owned by buildcraftapi_core providing buildcraftapi_gates) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.library (owned by buildcraftapi_core providing buildcraftapi_library) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.power (owned by buildcraftapi_core providing buildcraftapi_power) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.facades (owned by buildcraftapi_core providing buildcraftapi_facades) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API com.gildedgames.the_aether.api (owned by aether_legacy providing AetherAPI) embedded in aether_legacy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.blocks (owned by buildcraftapi_core providing buildcraftapi_blocks) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.lists (owned by buildcraftapi_core providing buildcraftapi_lists) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.recipes (owned by buildcraftapi_core providing buildcraftapi_recipes) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tools (owned by buildcraftapi_core providing buildcraftapi_tools) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.enums (owned by buildcraftapi_core providing buildcraftapi_enums) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.crops (owned by buildcraftapi_core providing buildcraftapi_crops) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.events (owned by buildcraftapi_core providing buildcraftapi_events) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.statements (owned by buildcraftapi_core providing buildcraftapi_statements) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.items (owned by buildcraftapi_core providing buildcraftapi_items) embedded in buildcrafttransport
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftcompat
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftbuilders
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftcore
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftenergy
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftfactory
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftlib
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftrobotics
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcraftsilicon
+[13:54:55] [Server thread/DEBUG] [FML]: Found API buildcraft.api.tiles (owned by buildcraftapi_core providing buildcraftapi_tiles) embedded in buildcrafttransport
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_events:2.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_events: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_robotics:3.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_robotics: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_crops:1.1}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_crops: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_boards:2.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_boards: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_transport:5.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_transport: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_gates:4.1}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_gates: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_core: owner: buildcraftlib, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API AetherAPI: owner: aether_legacy, dependents: []
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_power:1.3}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_power: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_fuels:2.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_fuels: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_blocks:1.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_blocks: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_filler:5.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_filler: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_facades:1.1}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_facades: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_items:1.1}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_items: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_recipes:3.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_recipes: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_lists:1.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_lists: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_tiles:1.2}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_tiles: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_tools:1.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_tools: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_library:2.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_library: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_enums:1.0}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_enums: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Removing upstream parent buildcraftlib from APIContainer{buildcraftapi_statements:1.1}
+[13:54:56] [Server thread/DEBUG] [FML]: Creating API container dummy for API buildcraftapi_statements: owner: buildcraftapi_core, dependents: [buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport]
+[13:54:56] [Server thread/TRACE] [FML]: Received a system property request ''
+[13:54:56] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[13:54:56] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod aether_legacy
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftcompat
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftbuilders
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftcore
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftenergy
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftfactory
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftlib
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftrobotics
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcraftsilicon
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod buildcrafttransport
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod cfm
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod cgm
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod ivairlinerpack
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod mts
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod jei
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod malisiscore
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod malisisdoors
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod mca
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod unuparts
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod vehicle
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod xaerominimap
+[13:54:56] [Server thread/WARN] [FML]: Missing English translation for xaerominimap: assets/xaerominimap/lang/en_us.lang
+[13:54:56] [Server thread/DEBUG] [FML]: Enabling mod xaeroworldmap
+[13:54:56] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[13:54:56] [Server thread/TRACE] [FML]: All mod requirements are satisfied
+[13:54:56] [Server thread/TRACE] [FML]: Sorting mods into an ordered list
+[13:54:56] [Server thread/TRACE] [FML]: Mod sorting completed successfully
+[13:54:56] [Server thread/DEBUG] [FML]: Mod sorting data
+[13:54:56] [Server thread/DEBUG] [FML]: 	aether_legacy(The Aether:1.5.2): aether-1.12.2-v1.5.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftlib(BuildCraft Lib:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:forge@[14.23.0.2544,))
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_core(API: buildcraftapi_core:2.2): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_events(API: buildcraftapi_events:2.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_robotics(API: buildcraftapi_robotics:3.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_crops(API: buildcraftapi_crops:1.1): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_boards(API: buildcraftapi_boards:2.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_transport(API: buildcraftapi_transport:5.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_gates(API: buildcraftapi_gates:4.1): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_power(API: buildcraftapi_power:1.3): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_fuels(API: buildcraftapi_fuels:2.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_blocks(API: buildcraftapi_blocks:1.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_filler(API: buildcraftapi_filler:5.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_facades(API: buildcraftapi_facades:1.1): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_items(API: buildcraftapi_items:1.1): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_recipes(API: buildcraftapi_recipes:3.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_lists(API: buildcraftapi_lists:1.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_tiles(API: buildcraftapi_tiles:1.2): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_tools(API: buildcraftapi_tools:1.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_library(API: buildcraftapi_library:2.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_enums(API: buildcraftapi_enums:1.0): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftapi_statements(API: buildcraftapi_statements:1.1): buildcraft-all-7.99.24.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftcore(BuildCraft:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftlib@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftbuilders(BuildCraft Builders:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcrafttransport(BuildCraft Transport:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftsilicon(BuildCraft Silicon:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2];after:buildcrafttransport)
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftcompat(BuildCraft Compat:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:forge@[14.23.0.2544,);required-after:buildcraftcore@[7.99.24.2,);after:buildcrafttransport;after:buildcraftbuilders;after:buildcraftsilicon;after:theoneprobe;after:forestry;after:crafttweaker)
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftenergy(BuildCraft Energy:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftfactory(BuildCraft Factory:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	buildcraftrobotics(BuildCraft Robotics:7.99.24.2): buildcraft-all-7.99.24.2.jar (required-after:buildcraftcore@[7.99.24.2])
+[13:54:56] [Server thread/DEBUG] [FML]: 	cfm(MrCrayfish's Furniture Mod:6.3.0): cfm-6.3.0-mc1.12.2.jar (after:crafttweaker)
+[13:54:56] [Server thread/DEBUG] [FML]: 	cgm(MrCrayfish's Gun Mod:0.15.3): cgm-0.15.3-mc1.12.2.jar (required-after:obfuscate@[0.2.1,);after:controllable@[0.3.0,))
+[13:54:56] [Server thread/DEBUG] [FML]: 	mts(Immersive Vehicles (formerly MTS):18.5.0): Immersive+Vehicles-1.12.2-18.5.0.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	ivairlinerpack(Golden Aerotransport Partnership:1.0.0): Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar (required-after:mts@[15.0.0,);)
+[13:54:56] [Server thread/DEBUG] [FML]: 	jei(Just Enough Items:4.16.1.301): jei_1.12.2-4.16.1.301.jar (required-after:forge@[14.23.5.2816,);)
+[13:54:56] [Server thread/DEBUG] [FML]: 	malisiscore(MalisisCore:1.12.2-6.5.1-SNAPSHOT): malisiscore-1.12.2-6.5.1.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	malisisdoors(MalisisDoors:1.12.2-7.3.0): malisisdoors-1.12.2-7.3.0.jar (required-after:malisiscore)
+[13:54:56] [Server thread/DEBUG] [FML]: 	mca(Minecraft Comes Alive:6.1.0): Minecraft-Comes-Alive-Mod-1.12.2.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	unuparts(UNU Parts Pack:3.5.0): UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar (required-after:mts@[18.0.0,);)
+[13:54:56] [Server thread/DEBUG] [FML]: 	vehicle(MrCrayfish's Vehicle Mod:0.44.1): vehicle-0.44.1-mc1.12.2.jar (required-after:obfuscate@[0.2.5,);after:cfm@[4.1.5,);after:controllable@[0.8.0,);required-after:forge@[14.23.4.2705,))
+[13:54:56] [Server thread/DEBUG] [FML]: 	xaerominimap(Xaero's Minimap:20.27.0): Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	xaeroworldmap(Xaero's World Map:1.11.0): XaerosWorldMap_1.11.0_Forge_1.12 (1).jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	JustEnoughItemsAPI(API: JustEnoughItemsAPI:4.13.0): jei_1.12.2-4.16.1.301.jar ()
+[13:54:56] [Server thread/DEBUG] [FML]: 	AetherAPI(API: AetherAPI:v1.0.0): aether-1.12.2-v1.5.2.jar ()
+[13:54:56] [Server thread/INFO] [FML]: FML has found a non-mod file buildcraft-7.1.23.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:54:56] [Server thread/DEBUG] [FML]: Loading @Config anotation data
+[13:54:56] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
+[13:54:56] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
+[13:54:56] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0.002s
+[13:54:56] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
+[13:54:56] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
+[13:54:56] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[13:54:56] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[13:54:57] [Server thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[13:54:57] [Server thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[13:54:57] [Server thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[13:54:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, obfuscate, aether_legacy, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cfm, cgm, ivairlinerpack, mts, jei, malisiscore, malisisdoors, mca, unuparts, vehicle, xaerominimap, xaeroworldmap] at CLIENT
+[13:54:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, obfuscate, aether_legacy, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cfm, cgm, ivairlinerpack, mts, jei, malisiscore, malisisdoors, mca, unuparts, vehicle, xaerominimap, xaeroworldmap] at SERVER
+[13:54:57] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[13:54:57] [Server thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 1.117s
+[13:54:57] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[13:54:57] [Server thread/DEBUG] [forge]: Loading Vanilla annotations: null
+[13:54:57] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[13:54:57] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[13:54:57] [Server thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[13:54:57] [Server thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[13:54:57] [Server thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2854)
+[13:54:57] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.353s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod xaerominimap_core
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod xaerominimap_core
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - XaeroMinimapCore took 0.000s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod xaeroworldmap_core
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod xaeroworldmap_core
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - XaeroWorldMapCore took 0.000s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod obfuscate
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod obfuscate
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - Obfuscate took 0.025s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod aether_legacy
+[13:54:58] [Server thread/TRACE] [FML]: Mod aether_legacy is using network checker : Accepting version 1.5.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod aether_legacy to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod aether_legacy accepts its own version (1.5.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into aether_legacy
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for aether_legacy
+[13:54:58] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.gildedgames.the_aether.api.AetherAPI for mod aether_legacy
+[13:54:58] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.gildedgames.the_aether.api.AetherAPI
+[13:54:58] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.gildedgames.the_aether.AetherConfig$EventHandler for mod aether_legacy
+[13:54:58] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.gildedgames.the_aether.AetherConfig$EventHandler
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into aether_legacy for type INSTANCE
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod aether_legacy
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - The Aether took 0.093s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftlib
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftlib is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftlib to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftlib accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftlib for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftlib
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftlib
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Lib took 0.024s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftcore
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftcore is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftcore to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftcore accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftcore for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftcore
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftcore
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft took 0.443s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftbuilders
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftbuilders is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftbuilders to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftbuilders accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftbuilders for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftbuilders
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftbuilders
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Builders took 0.013s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcrafttransport
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcrafttransport is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcrafttransport to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcrafttransport accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for buildcraft.transport.BCTransportRecipes for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class buildcraft.transport.BCTransportRecipes
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcrafttransport for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcrafttransport
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcrafttransport
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Transport took 0.035s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftsilicon
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftsilicon is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftsilicon to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftsilicon accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for buildcraft.silicon.BCSiliconRecipes for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class buildcraft.silicon.BCSiliconRecipes
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftsilicon for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftsilicon
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftsilicon
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Silicon took 0.037s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftcompat
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftcompat is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftcompat to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftcompat accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftcompat for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftcompat
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftcompat
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Compat took 0.270s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftenergy
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftenergy is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftenergy to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftenergy accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for buildcraft.energy.BCEnergyWorldGen for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class buildcraft.energy.BCEnergyWorldGen
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftenergy for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftenergy
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftenergy
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Energy took 0.014s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftfactory
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftfactory is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftfactory to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftfactory accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.robotics.BCRoboticsProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftfactory for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.robotics.BCRobotics.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftfactory
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftfactory
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Factory took 0.008s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod buildcraftrobotics
+[13:54:58] [Server thread/TRACE] [FML]: Mod buildcraftrobotics is using network checker : Accepting version 7.99.24.2
+[13:54:58] [Server thread/TRACE] [FML]: Testing mod buildcraftrobotics to verify it accepts its own version in a remote connection
+[13:54:58] [Server thread/TRACE] [FML]: The mod buildcraftrobotics accepts its own version (7.99.24.2)
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.builders.BCBuildersProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.lib.BCLibProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.silicon.BCSiliconProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.core.BCCoreProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.compat.network.CompatGui.guiHandlerProxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.factory.BCFactoryProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.energy.BCEnergyProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping proxy injection for buildcraft.transport.BCTransportProxy.proxy since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.silicon.BCSiliconRecipes since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.transport.BCTransportRecipes since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for buildcraft.energy.BCEnergyWorldGen since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into buildcraftrobotics for type INSTANCE
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.factory.BCFactory.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.compat.BCCompat.instance since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.core.BCCore.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.builders.BCBuilders.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.energy.BCEnergy.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.silicon.BCSilicon.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.transport.BCTransport.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for buildcraft.lib.BCLib.INSTANCE since it is not for mod buildcraftrobotics
+[13:54:58] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod buildcraftrobotics
+[13:54:58] [Server thread/DEBUG] [FML]: Bar Step: Construction - BuildCraft Robotics took 0.007s
+[13:54:58] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod cfm
+[13:54:59] [Server thread/TRACE] [FML]: Mod cfm is using network checker : Accepting version 6.3.0
+[13:54:59] [Server thread/TRACE] [FML]: Testing mod cfm to verify it accepts its own version in a remote connection
+[13:54:59] [Server thread/TRACE] [FML]: The mod cfm accepts its own version (6.3.0)
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.furniture.init.RegistrationHandler$Sounds for mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.furniture.init.RegistrationHandler$Sounds
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.furniture.init.RegistrationHandler$Items for mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.furniture.init.RegistrationHandler$Items
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.furniture.handler.ContainerEvents for mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.furniture.handler.ContainerEvents
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.furniture.init.RegistrationHandler$Recipes for mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.furniture.init.RegistrationHandler$Recipes
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.furniture.init.RegistrationHandler$Blocks for mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.furniture.init.RegistrationHandler$Blocks
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into cfm for type INSTANCE
+[13:54:59] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod cfm
+[13:54:59] [Server thread/DEBUG] [FML]: Bar Step: Construction - MrCrayfish's Furniture Mod took 0.036s
+[13:54:59] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod cgm
+[13:54:59] [Server thread/TRACE] [FML]: Mod cgm is using network checker : Accepting version 0.15.3
+[13:54:59] [Server thread/TRACE] [FML]: Testing mod cgm to verify it accepts its own version in a remote connection
+[13:54:59] [Server thread/TRACE] [FML]: The mod cgm accepts its own version (0.15.3)
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.init.RegistrationHandler$Blocks for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.init.RegistrationHandler$Blocks
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.init.RegistrationHandler$Potions for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.init.RegistrationHandler$Potions
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.init.RegistrationHandler$Sounds for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.init.RegistrationHandler$Sounds
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.GunConfig for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.GunConfig
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.common.SpreadHandler for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.common.SpreadHandler
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.init.RegistrationHandler$Recipes for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.init.RegistrationHandler$Recipes
+[13:54:59] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.guns.init.RegistrationHandler$Items for mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.guns.init.RegistrationHandler$Items
+[13:54:59] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into cgm for type INSTANCE
+[13:54:59] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod cgm
+[13:54:59] [Server thread/DEBUG] [FML]: Bar Step: Construction - MrCrayfish's Gun Mod took 0.067s
+[13:54:59] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mts
+[13:55:00] [Server thread/TRACE] [FML]: Mod mts is using network checker : Accepting version 18.5.0
+[13:55:00] [Server thread/TRACE] [FML]: Testing mod mts to verify it accepts its own version in a remote connection
+[13:55:00] [Server thread/TRACE] [FML]: The mod mts accepts its own version (18.5.0)
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mts
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mts
+[13:55:00] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for minecrafttransportsimulator.wrappers.WrapperBlock for mod mts
+[13:55:00] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class minecrafttransportsimulator.wrappers.WrapperBlock
+[13:55:00] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for minecrafttransportsimulator.dataclasses.MTSRegistry for mod mts
+[13:55:00] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class minecrafttransportsimulator.dataclasses.MTSRegistry
+[13:55:00] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for minecrafttransportsimulator.vehicles.main.EntityVehicleC_Colliding for mod mts
+[13:55:00] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class minecrafttransportsimulator.vehicles.main.EntityVehicleC_Colliding
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into mts for type INSTANCE
+[13:55:00] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mts
+[13:55:00] [Server thread/DEBUG] [FML]: Bar Step: Construction - Immersive Vehicles (formerly MTS) took 1.001s
+[13:55:00] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod ivairlinerpack
+[13:55:00] [Server thread/TRACE] [FML]: Mod ivairlinerpack is using network checker : Accepting version 1.0.0
+[13:55:00] [Server thread/TRACE] [FML]: Testing mod ivairlinerpack to verify it accepts its own version in a remote connection
+[13:55:00] [Server thread/TRACE] [FML]: The mod ivairlinerpack accepts its own version (1.0.0)
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into ivairlinerpack
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for ivairlinerpack
+[13:55:00] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for ivairlinerpack.MTSPackLoader for mod ivairlinerpack
+[13:55:00] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class ivairlinerpack.MTSPackLoader
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into ivairlinerpack for type INSTANCE
+[13:55:00] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod ivairlinerpack
+[13:55:00] [Server thread/DEBUG] [FML]: Bar Step: Construction - Golden Aerotransport Partnership took 0.559s
+[13:55:00] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jei
+[13:55:00] [Server thread/TRACE] [FML]: Mod jei is using network checker : Invoking method checkModLists
+[13:55:00] [Server thread/TRACE] [FML]: Testing mod jei to verify it accepts its own version in a remote connection
+[13:55:00] [Server thread/TRACE] [FML]: The mod jei accepts its own version (4.16.1.301)
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jei
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jei
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into jei for type INSTANCE
+[13:55:00] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jei
+[13:55:00] [Server thread/DEBUG] [FML]: Bar Step: Construction - Just Enough Items took 0.009s
+[13:55:00] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod malisiscore
+[13:55:00] [Server thread/TRACE] [FML]: Mod malisiscore is using network checker : Accepting version 1.12.2-6.5.1-SNAPSHOT
+[13:55:00] [Server thread/TRACE] [FML]: Testing mod malisiscore to verify it accepts its own version in a remote connection
+[13:55:00] [Server thread/TRACE] [FML]: The mod malisiscore accepts its own version (1.12.2-6.5.1-SNAPSHOT)
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into malisiscore
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for malisiscore
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into malisiscore for type INSTANCE
+[13:55:00] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod malisiscore
+[13:55:00] [Server thread/DEBUG] [FML]: Bar Step: Construction - MalisisCore took 0.015s
+[13:55:00] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod malisisdoors
+[13:55:00] [Server thread/TRACE] [FML]: Mod malisisdoors is using network checker : Accepting version 1.12.2-7.3.0
+[13:55:00] [Server thread/TRACE] [FML]: Testing mod malisisdoors to verify it accepts its own version in a remote connection
+[13:55:00] [Server thread/TRACE] [FML]: The mod malisisdoors accepts its own version (1.12.2-7.3.0)
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into malisisdoors
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for malisisdoors
+[13:55:00] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into malisisdoors for type INSTANCE
+[13:55:00] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod malisisdoors
+[13:55:00] [Server thread/DEBUG] [FML]: Bar Step: Construction - MalisisDoors took 0.020s
+[13:55:00] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mca
+[13:55:01] [Server thread/TRACE] [FML]: Mod mca is using network checker : Accepting version 6.1.0
+[13:55:01] [Server thread/TRACE] [FML]: Testing mod mca to verify it accepts its own version in a remote connection
+[13:55:01] [Server thread/TRACE] [FML]: The mod mca accepts its own version (6.1.0)
+[13:55:01] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mca
+[13:55:01] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mca
+[13:55:01] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for mca.core.minecraft.ProfessionsMCA$RegistrationHandler for mod mca
+[13:55:01] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class mca.core.minecraft.ProfessionsMCA$RegistrationHandler
+[13:55:01] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into mca for type INSTANCE
+[13:55:01] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mca
+[13:55:01] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Comes Alive took 0.338s
+[13:55:01] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod unuparts
+[13:55:02] [Server thread/TRACE] [FML]: Mod unuparts is using network checker : Accepting version 3.5.0
+[13:55:02] [Server thread/TRACE] [FML]: Testing mod unuparts to verify it accepts its own version in a remote connection
+[13:55:02] [Server thread/TRACE] [FML]: The mod unuparts accepts its own version (3.5.0)
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into unuparts
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for unuparts
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for unuparts.MTSPackLoader for mod unuparts
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class unuparts.MTSPackLoader
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into unuparts for type INSTANCE
+[13:55:02] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod unuparts
+[13:55:02] [Server thread/DEBUG] [FML]: Bar Step: Construction - UNU Parts Pack took 1.444s
+[13:55:02] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod vehicle
+[13:55:02] [Server thread/TRACE] [FML]: Mod vehicle is using network checker : Accepting version 0.44.1
+[13:55:02] [Server thread/TRACE] [FML]: Testing mod vehicle to verify it accepts its own version in a remote connection
+[13:55:02] [Server thread/TRACE] [FML]: The mod vehicle accepts its own version (0.44.1)
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.common.entity.SyncedPlayerData for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.common.entity.SyncedPlayerData
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.init.RegistrationHandler$Sounds for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.init.RegistrationHandler$Sounds
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.init.RegistrationHandler$Items for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.init.RegistrationHandler$Items
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.init.RegistrationHandler$Blocks for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.init.RegistrationHandler$Blocks
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.init.RegistrationHandler$Recipes for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.init.RegistrationHandler$Recipes
+[13:55:02] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mrcrayfish.vehicle.VehicleConfig for mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mrcrayfish.vehicle.VehicleConfig
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into vehicle for type INSTANCE
+[13:55:02] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod vehicle
+[13:55:02] [Server thread/DEBUG] [FML]: Bar Step: Construction - MrCrayfish's Vehicle Mod took 0.046s
+[13:55:02] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod xaerominimap
+[13:55:02] [Server thread/TRACE] [FML]: Mod xaerominimap is using network checker : Accepting version 20.27.0
+[13:55:02] [Server thread/TRACE] [FML]: Testing mod xaerominimap to verify it accepts its own version in a remote connection
+[13:55:02] [Server thread/TRACE] [FML]: The mod xaerominimap accepts its own version (20.27.0)
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into xaerominimap
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for xaerominimap
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into xaerominimap for type INSTANCE
+[13:55:02] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod xaerominimap
+[13:55:02] [Server thread/DEBUG] [FML]: Bar Step: Construction - Xaero's Minimap took 0.076s
+[13:55:02] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod xaeroworldmap
+[13:55:02] [Server thread/TRACE] [FML]: Mod xaeroworldmap is using network checker : Accepting version 1.11.0
+[13:55:02] [Server thread/TRACE] [FML]: Testing mod xaeroworldmap to verify it accepts its own version in a remote connection
+[13:55:02] [Server thread/TRACE] [FML]: The mod xaeroworldmap accepts its own version (1.11.0)
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into xaeroworldmap
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for xaeroworldmap
+[13:55:02] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into xaeroworldmap for type INSTANCE
+[13:55:02] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod xaeroworldmap
+[13:55:02] [Server thread/DEBUG] [FML]: Bar Step: Construction - Xaero's World Map took 0.047s
+[13:55:02] [Server thread/DEBUG] [FML]: Bar Finished: Construction took 6.100s
+[13:55:02] [Server thread/DEBUG] [FML]: Mod signature data
+[13:55:02] [Server thread/DEBUG] [FML]:  	Valid Signatures:
+[13:55:02] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2854.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2854)	forge-1.12.2-14.23.5.2854.jar
+[13:55:02] [Server thread/DEBUG] [FML]:  	Missing Signatures:
+[13:55:02] [Server thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		xaerominimap_core	(XaeroMinimapCore	1.12.2-1.0)	minecraft.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		xaeroworldmap_core	(XaeroWorldMapCore	1.12.2-1.0)	minecraft.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		obfuscate	(Obfuscate	0.4.2)	minecraft.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		aether_legacy	(The Aether	1.5.2)	aether-1.12.2-v1.5.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftlib	(BuildCraft Lib	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftcore	(BuildCraft	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftbuilders	(BuildCraft Builders	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcrafttransport	(BuildCraft Transport	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftsilicon	(BuildCraft Silicon	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftcompat	(BuildCraft Compat	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftenergy	(BuildCraft Energy	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftfactory	(BuildCraft Factory	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		buildcraftrobotics	(BuildCraft Robotics	7.99.24.2)	buildcraft-all-7.99.24.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		cfm	(MrCrayfish's Furniture Mod	6.3.0)	cfm-6.3.0-mc1.12.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		cgm	(MrCrayfish's Gun Mod	0.15.3)	cgm-0.15.3-mc1.12.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		mts	(Immersive Vehicles (formerly MTS)	18.5.0)	Immersive+Vehicles-1.12.2-18.5.0.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		ivairlinerpack	(Golden Aerotransport Partnership	1.0.0)	Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		jei	(Just Enough Items	4.16.1.301)	jei_1.12.2-4.16.1.301.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		malisiscore	(MalisisCore	1.12.2-6.5.1-SNAPSHOT)	malisiscore-1.12.2-6.5.1.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		malisisdoors	(MalisisDoors	1.12.2-7.3.0)	malisisdoors-1.12.2-7.3.0.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		mca	(Minecraft Comes Alive	6.1.0)	Minecraft-Comes-Alive-Mod-1.12.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		unuparts	(UNU Parts Pack	3.5.0)	UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		vehicle	(MrCrayfish's Vehicle Mod	0.44.1)	vehicle-0.44.1-mc1.12.2.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		xaerominimap	(Xaero's Minimap	20.27.0)	Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar
+[13:55:02] [Server thread/DEBUG] [FML]: 		xaeroworldmap	(Xaero's World Map	1.11.0)	XaerosWorldMap_1.11.0_Forge_1.12 (1).jar
+[13:55:02] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:55:03] [Server thread/INFO] [FML]: Found 1323 ObjectHolder annotations
+[13:55:03] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:55:03] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.001s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[13:55:03] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[13:55:03] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[13:55:03] [Server thread/DEBUG] [mixin]: Mixing MixinChunk from mixins.malisiscore.core.json into net.minecraft.world.chunk.Chunk
+[13:55:03] [Server thread/TRACE] [mixin]: Added class metadata for net/malisis/core/registry/Registries to metadata cache
+[13:55:03] [Server thread/TRACE] [mixin]: Added class metadata for net/malisis/core/util/callback/CallbackResult to metadata cache
+[13:55:03] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.125s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod xaerominimap_core
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod xaerominimap_core
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - XaeroMinimapCore took 0.000s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod xaeroworldmap_core
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod xaeroworldmap_core
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - XaeroWorldMapCore took 0.000s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod obfuscate
+[13:55:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:55:03] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[13:55:03] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod obfuscate
+[13:55:03] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Obfuscate took 0.023s
+[13:55:03] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod aether_legacy
+[13:55:04] [Forge Version Check/DEBUG] [forge.VersionCheck]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.2.6",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2386",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2854",
+    "1.12.2-recommended": "14.23.5.2854",
+    "1.13.2-latest": "25.0.219",
+    "1.14.2-latest": "26.0.63",
+    "1.14.3-latest": "27.0.60",
+    "1.14.4-latest": "28.2.23",
+    "1.14.4-recommended": "28.2.0",
+    "1.15-latest": "29.0.4",
+    "1.15.1-latest": "30.0.51",
+    "1.15.2-latest": "31.2.47",
+    "1.15.2-recommended": "31.2.0",
+    "1.16.1-latest": "32.0.108",
+    "1.16.2-latest": "33.0.61",
+    "1.16.3-latest": "34.1.42",
+    "1.16.3-recommended": "34.1.0",
+    "1.16.4-latest": "35.1.28",
+    "1.16.4-recommended": "35.1.4",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest-1.7.10": "10.13.2.1343"
+  }
+}
+[13:55:04] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[13:55:04] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[13:55:05] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod aether_legacy
+[13:55:05] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - The Aether took 2.234s
+[13:55:05] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod buildcraftlib
+[13:55:05] [Server thread/INFO] [BuildCraft]: 
+[13:55:05] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.2
+[13:55:05] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[13:55:05] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[13:55:05] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[13:55:05] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x
+[13:55:05] [Server thread/INFO] [BuildCraft]:   Commit 8964fd65d17bad602c03856bafd776c9434b7967
+[13:55:05] [Server thread/INFO] [BuildCraft]:     Fix broken grgit and pack.{mcmeta/png} being included in the output files.
+[13:55:05] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[13:55:05] [Server thread/INFO] [BuildCraft]: 
+[13:55:05] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - lib
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - core
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - builders
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - energy
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - factory
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - robotics
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - silicon
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - transport
+[13:55:05] [Server thread/INFO] [BuildCraft]:   - compat
+[13:55:05] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[13:55:05] [Server thread/INFO] [BuildCraft]: 
+[13:55:06] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from BuildCraft Lib (buildcraftlib)
+
+Caused by: java.lang.NoSuchFieldError: ON
+	at buildcraft.lib.misc.ExpressionCompat.<clinit>(ExpressionCompat.java:71) ~[ExpressionCompat.class:?]
+	at buildcraft.lib.BCLib.preInit(BCLib.java:99) ~[BCLib.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:55:06] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: C:\Users\Administrator\Desktop\Bryans Cool server\.\crash-reports\crash-2021-01-01_13.55.06-server.txt
+[13:55:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:55:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaerominimap_core
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaerominimap_core
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - XaeroMinimapCore took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaeroworldmap_core
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaeroworldmap_core
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - XaeroWorldMapCore took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod obfuscate
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod obfuscate
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Obfuscate took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod aether_legacy
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod aether_legacy
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - The Aether took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftlib
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftlib
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Lib took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftcore since required dependency buildcraftlib has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftbuilders since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Builders took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcrafttransport since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Transport took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftsilicon since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Silicon took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftcompat since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Compat took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftenergy since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Energy took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftfactory since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Factory took 0.000s
+[13:55:06] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod buildcraftrobotics since required dependency buildcraftcore has errored
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Robotics took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cgm
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cgm
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Gun Mod took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mts
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mts
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Immersive Vehicles (formerly MTS) took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ivairlinerpack
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ivairlinerpack
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Golden Aerotransport Partnership took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[13:55:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod malisiscore
+[13:55:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod malisiscore
+[13:55:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MalisisCore took 0.000s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod malisisdoors
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod malisisdoors
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MalisisDoors took 0.896s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod unuparts
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod unuparts
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - UNU Parts Pack took 0.000s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod vehicle
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod vehicle
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Vehicle Mod took 0.000s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaerominimap
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaerominimap
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Xaero's Minimap took 0.000s
+[13:55:07] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaeroworldmap
+[13:55:07] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaeroworldmap
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Xaero's World Map took 0.000s
+[13:55:07] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.903s
+[13:55:07] [Server thread/INFO] [FML]: The state engine was in incorrect state INITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[13:55:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:55:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

@@ -1,0 +1,125 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  XaeroWorldMapPlugin (XaerosWorldMap_1.11.0_Forge_1.12 (1).jar)
+  XaeroMinimapPlugin (Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar)
+  MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  ObfuscatePlugin (obfuscate-0.4.2-mc1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't be sad, have a hug! <3
+
+Time: 1/1/21 1:53 PM
+Description: Exception in server tick loop
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from BuildCraft Lib (buildcraftlib)
+Caused by: java.lang.NoSuchFieldError: ON
+	at buildcraft.lib.misc.ExpressionCompat.<clinit>(ExpressionCompat.java:71)
+	at buildcraft.lib.BCLib.preInit(BCLib.java:99)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows Server 2019 (amd64) version 10.0
+	Java Version: 1.8.0_271, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 703097592 bytes (670 MB) / 945815552 bytes (902 MB) up to 3814195200 bytes (3637 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 29 mods loaded, 29 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version               | Source                                           | Signature                                |
+	|:----- |:------------------- |:--------------------- |:------------------------------------------------ |:---------------------------------------- |
+	| LCH   | minecraft           | 1.12.2                | minecraft.jar                                    | None                                     |
+	| LCH   | mcp                 | 9.42                  | minecraft.jar                                    | None                                     |
+	| LCH   | FML                 | 8.0.99.99             | forge-1.12.2-14.23.5.2854.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | forge               | 14.23.5.2854          | forge-1.12.2-14.23.5.2854.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | xaerominimap_core   | 1.12.2-1.0            | minecraft.jar                                    | None                                     |
+	| LCH   | xaeroworldmap_core  | 1.12.2-1.0            | minecraft.jar                                    | None                                     |
+	| LCH   | obfuscate           | 0.4.2                 | minecraft.jar                                    | None                                     |
+	| LCH   | aether_legacy       | 1.5.2                 | aether-1.12.2-v1.5.2.jar                         | None                                     |
+	| LCE   | buildcraftlib       | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftcore      | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftbuilders  | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcrafttransport | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftsilicon   | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftcompat    | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftenergy    | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftfactory   | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | buildcraftrobotics  | 7.99.24.2             | buildcraft-all-7.99.24.2.jar                     | None                                     |
+	| LC    | cfm                 | 6.3.0                 | cfm-6.3.0-mc1.12.2.jar                           | None                                     |
+	| LC    | cgm                 | 0.15.3                | cgm-0.15.3-mc1.12.2.jar                          | None                                     |
+	| LC    | mts                 | 18.5.0                | Immersive+Vehicles-1.12.2-18.5.0.jar             | None                                     |
+	| LC    | ivairlinerpack      | 1.0.0                 | Golden_Airport_Pack_Immersive_Vehicles_2.2.2.jar | None                                     |
+	| LC    | jei                 | 4.16.1.301            | jei_1.12.2-4.16.1.301.jar                        | None                                     |
+	| LC    | malisiscore         | 1.12.2-6.5.1-SNAPSHOT | malisiscore-1.12.2-6.5.1.jar                     | None                                     |
+	| LC    | malisisdoors        | 1.12.2-7.3.0          | malisisdoors-1.12.2-7.3.0.jar                    | None                                     |
+	| LC    | mca                 | 6.1.0                 | Minecraft-Comes-Alive-Mod-1.12.2.jar             | None                                     |
+	| LC    | unuparts            | 3.5.0                 | UNU+Parts+Pack+[MTS]+1.12.2-18.0.0-3.5.0.jar     | None                                     |
+	| LC    | vehicle             | 0.44.1                | vehicle-0.44.1-mc1.12.2.jar                      | None                                     |
+	| LC    | xaerominimap        | 20.27.0               | Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar     | None                                     |
+	| LC    | xaeroworldmap       | 1.11.0                | XaerosWorldMap_1.11.0_Forge_1.12 (1).jar         | None                                     |
+
+	Loaded coremods (and transformers): 
+XaeroWorldMapPlugin (XaerosWorldMap_1.11.0_Forge_1.12 (1).jar)
+  xaero.map.core.transformer.ChunkTransformer
+  xaero.map.core.transformer.NetHandlerPlayClientTransformer
+  xaero.map.core.transformer.EntityPlayerTransformer
+  xaero.map.core.transformer.AbstractClientPlayerTransformer
+  xaero.map.core.transformer.WorldClientTransformer
+  xaero.map.core.transformer.PlayerListTransformer
+XaeroMinimapPlugin (Xaeros_Minimap_20.27.0_Forge_1.12 - Copy.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+  xaero.common.core.transformer.EntityPlayerTransformer
+  xaero.common.core.transformer.AbstractClientPlayerTransformer
+  xaero.common.core.transformer.WorldClientTransformer
+  xaero.common.core.transformer.EntityPlayerSPTransformer
+  xaero.common.core.transformer.PlayerListTransformer
+MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  
+ObfuscatePlugin (obfuscate-0.4.2-mc1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
